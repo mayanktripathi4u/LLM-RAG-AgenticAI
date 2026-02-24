@@ -1,0 +1,36 @@
+This is the content of document 1. It contains information about AI and Machine Learning.
+    Here I am going to copy some code from Google sarch on Python Programming.
+
+    Python is a high-level, interpreted, general-purpose programming language known for its readability and versatility. It's designed to be easy to learn and use, making it a popular choice for beginners and experienced programmers alike. 
+Here's a more detailed look at why Python is considered a high-level language:
+Key Characteristics of Python as a High-Level Language:
+Abstraction:
+.
+Python abstracts away many of the low-level details of computer hardware, such as memory management, allowing programmers to focus on the logic of their code. 
+Readability:
+.
+Python's syntax is designed to be clear and concise, resembling natural language, which makes it easier to read, write, and understand code. 
+Dynamic Typing:
+.
+Python uses dynamic typing, meaning that the data type of a variable is checked during runtime, not at compile time. This simplifies coding and allows for more flexibility. 
+Interpreted:
+.
+Python code is executed by an interpreter, which reads and executes the code line by line, rather than being compiled into machine code before execution. 
+Object-Oriented:
+.
+Python supports object-oriented programming, allowing you to organize code into reusable objects and classes. 
+Extensive Libraries:
+.
+Python has a vast standard library and a large ecosystem of third-party packages, providing pre-built functionalities for various tasks, such as web development, data analysis, and machine learning. 
+Why is this important?
+Ease of Use:
+High-level languages like Python are easier to learn and use than low-level languages, making them more accessible to a wider range of users. 
+Faster Development:
+The abstraction and readability of Python allow for faster development cycles, as programmers can write code more quickly and with fewer errors. 
+Portability:
+Python is platform-independent, meaning that Python code can run on different operating systems (Windows, macOS, Linux) without modification, as long as the Python interpreter is installed. 
+Versatility:
+Python's versatility makes it suitable for a wide range of applications, including web development, data science, machine learning, scripting, and more. 
+In essence, Python's high-level nature makes it a powerful and user-friendly language that empowers developers to create complex applications with relative ease. 
+
+    
