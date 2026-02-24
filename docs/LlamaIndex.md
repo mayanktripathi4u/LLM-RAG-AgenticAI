@@ -1,0 +1,14 @@
+# LlamaIndex
+- LlamaIndex is a framework for building LLM-powered context augmentation.
+- Context Augmentation is the process of making data available to the LLM.
+- Allows the LLM to perform a specific task while grounding the LLMs response in the provided context.
+- LlamaIndex Document Class
+  - Creates an object of the Document class.
+  - Calls the Document Object's dict method
+  - The Document object has several key components
+    - An ID that uniquely identifies the document.
+    - A placeholder for an embedding
+    - A metadata dict for metdata storage.
+    - A relationships dict for linking to other documents.
+    - The text present in the document.
+- 
